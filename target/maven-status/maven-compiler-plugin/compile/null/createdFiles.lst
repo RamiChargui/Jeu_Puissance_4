@@ -1,0 +1,16 @@
+app\Model\dba\DAO.class
+app\Model\ListeJoueur.class
+app\vue\interfacePartie.class
+app\Model\dba\DAOPARTIE.class
+app\control\control.class
+app\vue\interfacePuissance.class
+app\Model\Joueur.class
+app\Model\Puissance.class
+app\Model\Partie.class
+app\Model\dba\DAOJOUEUR.class
+app\vue\interfaceJoueur.class
+app\Model\Position.class
+app\Model\Coup.class
+app\Model\dba\DAOCOUP.class
+app\Model\dba\MYSQLCONNECT.class
+app\appPuissance.class
